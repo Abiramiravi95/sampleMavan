@@ -25,4 +25,11 @@ public class Sample {
 	
 
 	}
+	
+	private void karthik() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("karthik");
+System.out.println("a");
+	}
 }
